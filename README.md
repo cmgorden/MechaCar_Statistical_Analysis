@@ -5,7 +5,7 @@ The variables that provided a non-random amount of variance to the mpg values we
 
 #### Is the slope of the liner model considered zero?
 The slope of the linear model is not considered zero. We know this because R2>0.7. If the slop were zero, or around zero, we would expect R2 to be 
-<br><img src="Checkout_Times.png" width="500" height="500">
+<br><img src="Deliverable 1 Linear Regression.png" width="500" height="300">
 
 #### Is this linear regression an effective prediction?
 The 
