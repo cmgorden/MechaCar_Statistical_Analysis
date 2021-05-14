@@ -1,4 +1,4 @@
-# MechaCar_Statistical_Analysis
+# MechaCar Statistical Analysis
 ## Linear Regression to Predict MPG
 
 <br><img src="Deliverable 1 Linear Regression.png" width="500" height="300">
@@ -26,3 +26,11 @@ Summary statistics by lot:
 <br>
 From these summary statistics we can see that variance for all lots taken together is less than the 100 pounds per square inch maximum. However, looking at the breakdown of summary statistic by lot we can see that Lot 3 has a variance that is above 100 pounds per square inch. 
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+
+## T-Tests on Suspension Coils
+T-Test comparing all lots of the population mean:
+<br><img src="Deliverable 2 Total Summary.png" width="500" height="75">
+<br>
+T-Tests comparing each lot separately to the population mean:
+<br><br><img src="Deliverable 2 Lot Summary.png" width="600" height="150">
+<br>
