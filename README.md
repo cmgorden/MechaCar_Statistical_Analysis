@@ -29,8 +29,22 @@ T-Tests comparing each lot separately to the population mean:
 <br>
 
 ## Study Design: MechaCar vs Competition
-1. Statistical study, include the answer to the following questions:
-2. a. what metric/metrics are you going to use>
-3. What is the null hypothesis, what is the alternative hypothesis
-4. what statistical test would you use to test the hypotehsis
-5. what data is need to run the statistical test 
+When shopping for a car buyers are looking for and comparing a number of different factors. In order to compare the MechaCar with its' competition we will look at the following metrics:
+- cost
+- safety rating
+- fuel efficiency
+- number of seats
+<br><br>Our null hypothesis is:
+There is no difference between cost (safety rating, fuel efficiency, number of seats) of the MechaCar and cost (safety rating, fuel efficiency, number of seats) of the competition.
+<br><br>Our alternative hypothesis: 
+There is a statistical difference between cost (safety rating, fuel efficiency, number of seats) of the MechaCar and cost (safety rating, fuel efficiency, number of seats) of the competition.
+<br> The statistical tests that would be used to test the hypothesis 
+5. what statistical test would you use to test the hypotehsis
+There is quite a lot of data that needs to be gathered to compare the MechaCar to the competition. First we will need to narrow down the competition to just those car manufacturers that make a similar make/model to the MechaCar. Since the goal of the comparison is for the MechaCar to be a top seller while making a substantial profit, it will be easier and more efficient to compare the MechaCar to just the top 5 (based on total sales) car manufacturers. We will need to collect for all 5 top comparable makes/models:
+- Base selling price
+- Safety rating
+- Highway rated fuel efficiency
+- City rated fuel efficiency
+- Number of seats
+
+<br> We will then use _____ statistical tests to test our null hypothesis. 
