@@ -34,3 +34,10 @@ T-Test comparing all lots of the population mean:
 T-Tests comparing each lot separately to the population mean:
 <br><br><img src="Deliverable 2 Lot Summary.png" width="600" height="150">
 <br>
+
+## Study Design: MechaCar vs Competition
+1. Statistical study, include the answer to the following questions:
+2. a. what metric/metrics are you going to use>
+3. What is the null hypothesis, what is the alternative hypothesis
+4. what statistical test would you use to test the hypotehsis
+5. what data is need to run the statistical test 
