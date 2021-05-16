@@ -35,10 +35,11 @@ T-Tests comparing each lot separately to the population mean:
 
 ## Study Design: MechaCar vs Competition
 When shopping for a car buyers are looking for and comparing a number of different factors. In order to compare the MechaCar with its' competition we will look at the following metrics:
-- cost
-- safety rating
-- fuel efficiency
-- number of seats
+- Cost
+- Safety rating
+- Fuel efficiency
+- Fuel capacity
+- Range
 <br><br>Our null hypothesis is:
 There is no difference between cost (safety rating, fuel efficiency, fuel capacity, range) of the MechaCar and cost (safety rating, fuel efficiency, number of seats) of the competition.
 <br><br>Our alternative hypothesis: 
@@ -53,7 +54,8 @@ There is a statistical difference between cost (safety rating, fuel efficiency, 
 - Range
 
 <br> In order to test the null hypothesis for the above metrics, we will employ different statistical tests depending on the type of metric:
-- cost: z-score summary given the numerical metric and small sample size. 
-- safety rating: z-score summary given the numerical metric and small sample size
-- fuel efficiency: chi-squared goodness of fit to test if the MechaCar differs from other comparable cars on the market.
-- number of seats: 
+- Cost: z-score summary given the numerical metric and small sample size. 
+- Safety rating: z-score summary given the numerical metric and small sample size
+- Fuel efficiency: chi-squared goodness of fit to test if the MechaCar differs from other comparable cars on the market.
+- Fuel capacity: z-score summary given the numerical metric and small sample size
+- Range: chi-squared goodness of fit to test if the MechaCar differs from other comparable cars on the market. 
