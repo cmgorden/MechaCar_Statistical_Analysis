@@ -21,11 +21,16 @@ Summary statistics by lot:
 From these summary statistics we can see that variance for all lots taken together is less than the 100 pounds per square inch maximum. However, looking at the breakdown of summary statistics by lot we can see that Lot 3 has a variance that is above 100 pounds per square inch, meaning Lot 3 does not meet the design specification. 
 
 ## T-Tests on Suspension Coils
-T-Test comparing all lots of the population mean:
-<br><img src="Total_vs_mean.png" width="500" height="75">
+From the following T-Tests we can conclude that there is not sufficient evidence to reject the null - meaning there is no statistical difference between the lots in total and each lot compared to the general population. 
+<br><br>T-Test comparing all lots of the population mean:
+<br><img src="Total_vs_mean.png" width="500" height="200">
 <br>
 T-Tests comparing each lot separately to the population mean:
-<br><br><img src="Lot1_vs_mean.png" width="600" height="150">
+<br><br><img src="Lot1_vs_mean.png" width="500" height="200">
+<br>
+<br><br><img src="Lot2_vs_mean.png" width="500" height="200">
+<br>
+<br><br><img src="Lot3_vs_mean.png" width="500" height="200">
 <br>
 
 ## Study Design: MechaCar vs Competition
