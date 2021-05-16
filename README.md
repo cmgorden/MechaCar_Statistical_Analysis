@@ -40,16 +40,17 @@ When shopping for a car buyers are looking for and comparing a number of differe
 - fuel efficiency
 - number of seats
 <br><br>Our null hypothesis is:
-There is no difference between cost (safety rating, fuel efficiency, number of seats) of the MechaCar and cost (safety rating, fuel efficiency, number of seats) of the competition.
+There is no difference between cost (safety rating, fuel efficiency, fuel capacity, range) of the MechaCar and cost (safety rating, fuel efficiency, number of seats) of the competition.
 <br><br>Our alternative hypothesis: 
-There is a statistical difference between cost (safety rating, fuel efficiency, number of seats) of the MechaCar and cost (safety rating, fuel efficiency, number of seats) of the competition.
+There is a statistical difference between cost (safety rating, fuel efficiency, fuel capacity, range) of the MechaCar and cost (safety rating, fuel efficiency, number of seats) of the competition.
 
 <br><br>There is quite a lot of data that needs to be gathered to compare the MechaCar to the competition. First we will need to narrow down the competition to just those car manufacturers that make a similar make/model to the MechaCar. Since the goal of the comparison is for the MechaCar to be a top seller while making a substantial profit, it will be easier and more efficient to compare the MechaCar to just the top 5 (based on total sales) car manufacturers. We will need to collect for all 5 top comparable makes/models:
 - Base selling price
 - Safety rating
 - Highway rated fuel efficiency
 - City rated fuel efficiency
-- Number of seats
+- Fuel capacity
+- Range
 
 <br> In order to test the null hypothesis for the above metrics, we will employ different statistical tests depending on the type of metric:
 - cost: z-score summary given the numerical metric and small sample size. 
