@@ -22,10 +22,10 @@ From these summary statistics we can see that variance for all lots taken togeth
 
 ## T-Tests on Suspension Coils
 T-Test comparing all lots of the population mean:
-<br><img src="Deliverable 2 Total Summary.png" width="500" height="75">
+<br><img src="Total_vs_mean.png" width="500" height="75">
 <br>
 T-Tests comparing each lot separately to the population mean:
-<br><br><img src="Deliverable 2 Lot Summary.png" width="600" height="150">
+<br><br><img src="Lot1_vs_mean.png" width="600" height="150">
 <br>
 
 ## Study Design: MechaCar vs Competition
