@@ -51,4 +51,8 @@ There is a statistical difference between cost (safety rating, fuel efficiency, 
 - City rated fuel efficiency
 - Number of seats
 
-<br> We will then use _____ statistical tests to test our null hypothesis. 
+<br> In order to test the null hypothesis for the above metrics, we will employ different statistical tests depending on the type of metric:
+- cost: z-score summary given the numerical metric and small sample size. 
+- safety rating: z-score summary given the numerical metric and small sample size
+- fuel efficiency: chi-squared goodness of fit to test if the MechaCar differs from other comparable cars on the market.
+- number of seats: 
